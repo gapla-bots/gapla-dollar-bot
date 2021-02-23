@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "currency-bot"
-version = "0.1.0"
+name = "bank-of-gapla-bot"
+version = "3.0.0"
 description = ""
-authors = ["Wyatt Baek <president@gaplagov.org>" "Scott Chiang <pain@gaplagov.org>"]
+authors = ["Wyatt Baek <president@gaplagov.org>", "Scott Chiang <pain@gaplagov.org>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
