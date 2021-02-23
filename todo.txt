@@ -1,0 +1,4 @@
+This todo list is a list of improvements, we don't expect the bot to do this in the near future.
+
+-Dectect Nicknames (medium priority)
+-Dectect Pings (medium priority)
